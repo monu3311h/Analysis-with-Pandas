@@ -1,0 +1,201 @@
+Date of Sale,Product Category,Region,Price,Quantity,Sales,Customer Feedback,Promotion Applied
+2023-11-24,Toys,West,380.79,11,4188.6900000000005,Value for money,True
+2023-02-27,Clothing,North,951.21,17,16170.57,Worth the price,True
+2023-01-13,Grocery,North,734.67,8,5877.36,Value for money,True
+2023-05-21,Toys,North,602.67,4,2410.68,Excellent quality,True
+2023-05-06,Toys,South,164.46,6,986.76,Highly recommend,False
+2023-04-25,Furniture,North,164.43,8,1315.44,Fast delivery,False
+2023-03-13,Clothing,East,67.5,3,202.5,Poor quality,True
+2023-02-22,Toys,South,867.51,16,13880.16,Could be better,True
+2023-12-13,Clothing,West,605.1,3,1815.3000000000002,Worth the price,False
+2023-10-07,Grocery,South,710.99,18,12797.82,Poor quality,False
+2023-02-14,Furniture,North,30.38,14,425.32,Poor quality,True
+2023-10-30,Grocery,East,970.21,18,17463.78,Fast delivery,True
+2023-08-05,Furniture,East,834.12,2,1668.24,Highly recommend,True
+2023-01-17,Toys,North,220.22,3,660.66,Fast delivery,False
+2023-01-16,Furniture,East,190.01,16,3040.16,Highly recommend,False
+2023-02-17,Electronics,South,191.57,9,1724.1299999999999,Not satisfied,False
+2023-04-22,Clothing,South,311.2,4,1244.8,Worth the price,True
+2023-04-30,Clothing,North,529.51,1,529.51,Excellent quality,True
+2023-09-16,Electronics,East,437.63,4,1750.52,Will buy again,False
+2023-11-05,Grocery,West,298.32,1,298.32,Excellent quality,False
+2023-01-14,Electronics,South,615.73,14,8620.220000000001,Poor quality,True
+2023-10-15,Toys,South,148.1,16,2369.6,Could be better,False
+2023-04-12,Toys,South,299.22,8,2393.76,Not satisfied,False
+2023-11-29,Clothing,South,372.7,7,2608.9,Excellent quality,True
+2023-12-26,Toys,West,461.51,3,1384.53,Excellent quality,False
+2023-10-07,Clothing,North,787.32,17,13384.44,Could be better,True
+2023-08-03,Electronics,South,207.68,1,207.68,Could be better,True
+2023-04-23,Electronics,East,519.09,16,8305.44,Excellent quality,True
+2023-08-18,Electronics,West,596.49,12,7157.88,Not as expected,True
+2023-10-29,Clothing,South,55.99,19,1063.81,Value for money,True
+2023-05-23,Electronics,East,611.47,14,8560.58,Could be better,True
+2023-01-04,Electronics,South,178.82,6,1072.92,Value for money,True
+2023-03-23,Grocery,North,74.4,6,446.40000000000003,Worth the price,False
+2023-12-24,Electronics,West,949.4,13,12342.199999999999,Not satisfied,True
+2023-08-05,Toys,North,965.98,19,18353.62,Not as expected,True
+2023-06-24,Clothing,West,810.31,8,6482.48,Could be better,False
+2023-05-23,Grocery,South,311.57,2,623.14,Worth the price,False
+2023-03-21,Furniture,South,106.7,1,106.7,Highly recommend,False
+2023-04-21,Clothing,West,687.39,15,10310.85,Poor quality,True
+2023-06-22,Toys,East,445.75,1,445.75,Value for money,False
+2023-02-22,Clothing,East,130.82,5,654.0999999999999,Not as expected,True
+2023-02-17,Toys,South,500.23,16,8003.68,Not as expected,True
+2023-07-14,Toys,South,44.04,19,836.76,Not satisfied,True
+2023-02-19,Furniture,North,910.23,4,3640.92,Value for money,True
+2023-07-03,Clothing,South,266.19,3,798.5699999999999,Highly recommend,False
+2023-06-26,Furniture,West,665.9,17,11320.3,Not satisfied,False
+2023-11-06,Furniture,East,318.59,17,5416.03,Not as expected,True
+2023-05-16,Clothing,East,524.87,12,6298.4400000000005,Excellent quality,True
+2023-01-23,Electronics,North,551.24,14,7717.360000000001,Highly recommend,True
+2023-08-24,Electronics,East,193.01,6,1158.06,Not as expected,False
+2023-10-02,Furniture,East,969.89,3,2909.67,Fast delivery,True
+2023-03-05,Grocery,West,777.38,9,6996.42,Fast delivery,True
+2023-07-13,Furniture,East,940.1,5,4700.5,Could be better,False
+2023-02-10,Furniture,North,895.88,17,15229.96,Not satisfied,False
+2023-10-10,Furniture,North,601.92,14,8426.88,Not as expected,True
+2023-05-31,Electronics,East,922.66,3,2767.98,Could be better,False
+2023-11-18,Electronics,South,97.61,1,97.61,Not satisfied,False
+2023-11-13,Electronics,East,204.02,1,204.02,Highly recommend,True
+2023-07-05,Furniture,North,54.78,3,164.34,Not as expected,False
+2023-10-23,Grocery,North,332.08,18,5977.44,Not satisfied,True
+2023-04-09,Electronics,West,394.79,10,3947.9,Not as expected,False
+2023-12-27,Clothing,East,278.64,3,835.92,Excellent quality,True
+2023-02-05,Clothing,East,830.45,8,6643.6,Poor quality,True
+2023-01-24,Clothing,West,363.19,14,5084.66,Will buy again,True
+2023-12-05,Toys,North,288.13,18,5186.34,Fast delivery,False
+2023-04-27,Furniture,West,547.27,15,8209.05,Poor quality,True
+2023-05-29,Clothing,South,149.51,2,299.02,Not satisfied,False
+2023-02-10,Furniture,East,804.18,10,8041.799999999999,Will buy again,True
+2023-04-30,Clothing,North,83.81,2,167.62,Poor quality,True
+2023-02-21,Grocery,West,987.02,17,16779.34,Excellent quality,False
+2023-07-14,Furniture,North,774.52,8,6196.16,Fast delivery,True
+2023-05-23,Clothing,South,206.73,1,206.73,Worth the price,True
+2023-08-21,Electronics,East,15.47,9,139.23000000000002,Not satisfied,False
+2023-11-22,Furniture,West,817.31,11,8990.41,Fast delivery,True
+2023-07-06,Toys,North,709.79,16,11356.64,Poor quality,True
+2023-03-25,Electronics,East,731.72,7,5122.04,Worth the price,True
+2023-07-09,Electronics,East,773.56,10,7735.599999999999,Value for money,True
+2023-07-01,Toys,North,83.3,3,249.89999999999998,Fast delivery,False
+2023-04-18,Electronics,East,364.88,18,6567.84,Value for money,False
+2023-12-10,Electronics,East,124.71,13,1621.23,Will buy again,True
+2023-05-17,Clothing,West,864.47,7,6051.29,Highly recommend,False
+2023-12-26,Clothing,East,627.07,4,2508.28,Not as expected,True
+2023-12-16,Furniture,West,337.59,13,4388.67,Will buy again,False
+2023-11-28,Furniture,East,72.92,1,72.92,Worth the price,True
+2023-02-06,Furniture,South,317.87,8,2542.96,Worth the price,True
+2023-11-08,Clothing,South,331.93,14,4647.02,Fast delivery,True
+2023-11-22,Furniture,West,732.31,16,11716.96,Not as expected,True
+2023-03-29,Electronics,West,641.18,14,8976.519999999999,Highly recommend,True
+2023-10-01,Clothing,South,888.34,12,10660.08,Poor quality,True
+2023-05-06,Furniture,East,477.49,19,9072.31,Could be better,False
+2023-03-25,Electronics,West,128.4,15,1926.0,Not satisfied,True
+2023-08-25,Furniture,North,716.11,2,1432.22,Highly recommend,False
+2023-07-14,Grocery,East,763.18,2,1526.36,Worth the price,True
+2023-05-19,Furniture,East,565.66,19,10747.539999999999,Could be better,False
+2023-11-24,Grocery,South,773.26,17,13145.42,Worth the price,False
+2023-12-19,Furniture,West,498.86,10,4988.6,Not as expected,False
+2023-10-13,Toys,East,527.51,6,3165.06,Not as expected,True
+2023-04-23,Furniture,West,433.27,15,6499.049999999999,Fast delivery,True
+2023-12-17,Clothing,West,35.16,11,386.76,Poor quality,False
+2023-06-16,Clothing,West,116.81,5,584.05,Excellent quality,True
+2023-01-29,Grocery,South,41.11,1,41.11,Worth the price,False
+2023-04-28,Clothing,West,640.05,8,5120.4,Poor quality,True
+2023-01-17,Electronics,South,321.21,12,3854.5199999999995,Value for money,False
+2023-06-11,Toys,North,513.48,12,6161.76,Worth the price,False
+2023-07-25,Toys,East,908.49,5,4542.45,Could be better,True
+2023-05-18,Electronics,East,256.8,7,1797.6000000000001,Poor quality,False
+2023-02-03,Grocery,North,416.28,4,1665.12,Highly recommend,True
+2023-04-19,Electronics,South,758.0,6,4548.0,Poor quality,False
+2023-10-18,Electronics,East,236.51,13,3074.63,Highly recommend,False
+2023-06-11,Toys,South,86.21,15,1293.1499999999999,Not as expected,True
+2023-04-19,Furniture,South,296.85,3,890.5500000000001,Highly recommend,True
+2023-12-02,Toys,South,169.61,8,1356.88,Will buy again,True
+2023-09-13,Toys,North,930.4,16,14886.4,Excellent quality,False
+2023-07-22,Clothing,North,810.04,13,10530.52,Will buy again,True
+2023-11-26,Electronics,South,637.07,18,11467.26,Could be better,False
+2023-08-23,Toys,West,872.75,10,8727.5,Not satisfied,False
+2023-03-15,Electronics,North,805.64,19,15307.16,Could be better,True
+2023-05-16,Clothing,West,194.7,17,3309.8999999999996,Fast delivery,True
+2023-03-13,Electronics,West,893.63,19,16978.97,Worth the price,False
+2023-05-07,Toys,South,543.95,5,2719.75,Will buy again,False
+2023-10-15,Electronics,West,809.37,9,7284.33,Could be better,True
+2023-10-03,Clothing,West,897.13,12,10765.56,Worth the price,True
+2023-05-15,Furniture,West,324.82,1,324.82,Worth the price,True
+2023-10-27,Electronics,South,118.95,1,118.95,Worth the price,True
+2023-08-08,Toys,South,235.66,15,3534.9,Excellent quality,True
+2023-10-26,Clothing,North,432.84,2,865.68,Not satisfied,False
+2023-07-24,Toys,North,819.83,16,13117.28,Highly recommend,False
+2023-07-05,Toys,West,862.12,8,6896.96,Could be better,False
+2023-04-23,Electronics,South,16.88,13,219.44,Fast delivery,False
+2023-03-12,Toys,South,515.64,1,515.64,Could be better,True
+2023-09-18,Electronics,West,423.24,16,6771.84,Highly recommend,True
+2023-09-10,Furniture,North,229.89,7,1609.23,Not as expected,True
+2023-02-16,Toys,South,128.67,5,643.3499999999999,Poor quality,False
+2023-01-25,Toys,North,344.24,3,1032.72,Worth the price,False
+2023-02-26,Toys,West,943.48,12,11321.76,Will buy again,True
+2023-03-20,Grocery,South,329.97,16,5279.52,Will buy again,True
+2023-11-18,Grocery,West,523.6,19,9948.4,Poor quality,False
+2023-03-23,Clothing,East,705.99,5,3529.95,Fast delivery,False
+2023-12-15,Grocery,West,369.99,14,5179.860000000001,Will buy again,True
+2023-08-05,Clothing,West,972.06,5,4860.299999999999,Poor quality,True
+2023-11-02,Grocery,West,962.82,15,14442.300000000001,Poor quality,False
+2023-02-02,Furniture,South,259.26,17,4407.42,Worth the price,True
+2023-07-17,Clothing,West,502.28,14,7031.92,Highly recommend,True
+2023-07-15,Grocery,West,307.87,5,1539.35,Highly recommend,True
+2023-11-02,Furniture,East,291.99,12,3503.88,Highly recommend,False
+2023-08-28,Grocery,South,46.52,16,744.32,Could be better,False
+2023-09-28,Electronics,East,613.47,16,9815.52,Not satisfied,False
+2023-05-09,Electronics,West,507.65,7,3553.5499999999997,Could be better,False
+2023-10-11,Furniture,South,60.96,4,243.84,Poor quality,False
+2023-01-06,Toys,East,285.86,1,285.86,Not satisfied,False
+2023-12-15,Toys,West,909.18,5,4545.9,Will buy again,False
+2023-02-28,Electronics,North,247.17,10,2471.7,Value for money,True
+2023-12-16,Electronics,East,153.45,5,767.25,Could be better,True
+2023-10-02,Toys,South,494.56,4,1978.24,Could be better,True
+2023-05-17,Clothing,East,985.79,2,1971.58,Worth the price,True
+2023-11-25,Toys,East,249.63,10,2496.3,Highly recommend,True
+2023-06-24,Grocery,East,675.41,19,12832.789999999999,Not as expected,True
+2023-02-27,Clothing,North,764.0,1,764.0,Will buy again,True
+2023-05-31,Grocery,South,245.26,5,1226.3,Not as expected,False
+2023-08-11,Electronics,South,730.93,13,9502.09,Highly recommend,False
+2023-03-22,Clothing,South,374.11,4,1496.44,Not satisfied,True
+2023-08-21,Grocery,West,635.98,16,10175.68,Could be better,True
+2023-01-02,Grocery,South,637.19,16,10195.04,Highly recommend,False
+2023-05-15,Clothing,South,540.42,2,1080.84,Could be better,True
+2023-09-14,Furniture,North,99.39,17,1689.63,Poor quality,True
+2023-04-02,Toys,West,836.95,12,10043.400000000001,Value for money,False
+2023-09-17,Grocery,West,327.57,18,5896.26,Highly recommend,True
+2023-02-24,Toys,East,194.65,3,583.95,Excellent quality,False
+2023-11-17,Toys,West,50.37,1,50.37,Will buy again,True
+2023-06-02,Electronics,West,594.98,1,594.98,Value for money,False
+2023-11-24,Toys,North,680.79,19,12935.009999999998,Highly recommend,False
+2023-09-17,Grocery,South,26.42,11,290.62,Excellent quality,False
+2023-11-08,Electronics,West,516.97,5,2584.8500000000004,Excellent quality,True
+2023-04-12,Clothing,West,234.23,12,2810.7599999999998,Will buy again,False
+2023-03-20,Grocery,North,648.72,3,1946.16,Highly recommend,True
+2023-07-11,Electronics,West,182.62,1,182.62,Value for money,True
+2023-03-24,Electronics,West,694.03,1,694.03,Worth the price,True
+2023-10-04,Toys,North,392.87,8,3142.96,Not satisfied,True
+2023-09-29,Clothing,East,937.36,10,9373.6,Excellent quality,False
+2023-01-01,Grocery,East,146.15,11,1607.65,Not as expected,False
+2023-11-03,Grocery,West,347.66,12,4171.92,Highly recommend,True
+2023-06-15,Toys,West,122.34,13,1590.42,Worth the price,True
+2023-09-08,Clothing,South,925.45,12,11105.400000000001,Worth the price,False
+2023-01-10,Grocery,West,878.57,14,12299.980000000001,Worth the price,True
+2023-02-27,Clothing,South,265.36,2,530.72,Poor quality,False
+2023-07-05,Grocery,East,663.38,19,12604.22,Value for money,True
+2023-06-07,Toys,West,819.05,18,14742.9,Excellent quality,True
+2023-05-03,Furniture,West,559.65,3,1678.9499999999998,Highly recommend,False
+2023-01-30,Grocery,North,534.35,17,9083.95,Worth the price,True
+2023-05-04,Electronics,West,249.43,8,1995.44,Not satisfied,False
+2023-10-18,Electronics,East,102.17,10,1021.7,Not satisfied,True
+2023-02-10,Furniture,West,898.24,2,1796.48,Fast delivery,True
+2023-02-13,Grocery,South,901.41,19,17126.79,Worth the price,True
+2023-09-06,Electronics,West,636.77,9,5730.93,Not satisfied,False
+2023-02-05,Electronics,South,345.64,7,2419.48,Not as expected,True
+2023-09-30,Grocery,North,355.72,4,1422.88,Excellent quality,True
+2023-03-06,Clothing,West,728.7,18,13116.6,Value for money,True
+2023-03-07,Grocery,North,898.14,13,11675.82,Value for money,True
+2023-12-04,Clothing,North,888.22,11,9770.42,Not as expected,False
+2023-09-01,Furniture,West,782.08,4,3128.32,Highly recommend,False
